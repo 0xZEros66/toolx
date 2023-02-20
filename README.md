@@ -9,10 +9,15 @@ sudo apt install telnet -y
 install resbiratory
  
 git clone https://github.com/hackingnewsUSA/toolx
+
 cd toolx
+
 cd toolx1
+
 Many tools help you
+
 all tools open with python3 
+
 
 1-adminpagefinder.py
 
